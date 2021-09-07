@@ -224,10 +224,7 @@ function App() {
                           </form>
                         </div>
                         <div id="reg_pages_msg" className="_58mk">
-                          <a
-                            href="/pages/create/?ref_type=registration_form"
-                            className="_8esh"
-                          >
+                          <a href="https://www.facebook.com" className="_8esh">
                             Crea una página
                           </a>{" "}
                           para un personaje público, un grupo de música o un
@@ -381,12 +378,18 @@ function App() {
                   >
                     <ul className="uiList pageFooterLinkList _509- _4ki _703 _6-i">
                       <li>
-                        <a href="/r.php" title="Regístrate en Facebook">
+                        <a
+                          href="https://www.facebook.com"
+                          title="Regístrate en Facebook"
+                        >
                           Registrarte
                         </a>
                       </li>
                       <li>
-                        <a href="/login/" title="Iniciar sesión en Facebook">
+                        <a
+                          href="https://www.facebook.com"
+                          title="Iniciar sesión en Facebook"
+                        >
                           Iniciar sesión
                         </a>
                       </li>
@@ -399,7 +402,10 @@ function App() {
                         </a>
                       </li>
                       <li>
-                        <a href="/lite/" title="Facebook Lite para Android.">
+                        <a
+                          href="https://www.facebook.com"
+                          title="Facebook Lite para Android."
+                        >
                           Facebook Lite
                         </a>
                       </li>
@@ -414,20 +420,23 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/places/"
+                          href="https://www.facebook.com"
                           title="Descubre lugares populares en Facebook."
                         >
                           Lugares
                         </a>
                       </li>
                       <li>
-                        <a href="/games/" title="Descubre juegos en Facebook.">
+                        <a
+                          href="https://www.facebook.com"
+                          title="Descubre juegos en Facebook."
+                        >
                           Juegos
                         </a>
                       </li>
                       <li>
                         <a
-                          href="/marketplace/"
+                          href="https://www.facebook.com"
                           title="Compra y vende artículos en Facebook Marketplace."
                         >
                           Marketplace
@@ -444,7 +453,7 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/jobs/"
+                          href="https://www.facebook.com"
                           title="Postúlate para empleos y contrata personas en Facebook."
                         >
                           Empleos
@@ -481,7 +490,7 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/local/lists/245019872666104/"
+                          href="https://www.facebook.com"
                           title="Explora nuestro directorio de listas locales."
                         >
                           Local
@@ -489,7 +498,7 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/fundraisers/"
+                          href="https://www.facebook.com"
                           title="Haz una donación a causas que te importan."
                         >
                           Recaudaciones de fondos
@@ -497,7 +506,7 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/biz/directory/"
+                          href="https://www.facebook.com"
                           title="Explora nuestro directorio de servicios de Facebook."
                         >
                           Servicios
@@ -505,7 +514,7 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D"
+                          href="https://www.facebook.com"
                           title="Mira el Centro de información de votación."
                         >
                           Centro de información de votación
@@ -522,7 +531,8 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto"
+                          // href="/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto"
+                          href="https://www.facebook.com"
                           title="Anúnciate en Facebook."
                         >
                           Crear anuncio
@@ -530,7 +540,8 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/pages/create/?ref_type=site_footer"
+                          // href="/pages/create/?ref_type=site_footer"
+                          href="https://www.facebook.com"
                           title="Crea una página."
                         >
                           Crear página
@@ -546,7 +557,8 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/careers/?ref=pf"
+                          // href="/careers/?ref=pf"
+                          href="https://www.facebook.com"
                           title="Únete a nuestra extraordinaria empresa."
                         >
                           Empleo
@@ -555,7 +567,8 @@ function App() {
                       <li>
                         <a
                           data-nocookies={1}
-                          href="/privacy/explanation"
+                          // href="/privacy/explanation"
+                          href="https://www.facebook.com"
                           title="Infórmate acerca de tu privacidad y Facebook."
                         >
                           Privacidad
@@ -563,7 +576,8 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/policies/cookies/"
+                          // href="/policies/cookies/"
+                          href="https://www.facebook.com"
                           title="Infórmate acerca de las cookies y Facebook."
                           data-nocookies={1}
                         >
@@ -584,7 +598,8 @@ function App() {
                       <li>
                         <a
                           data-nocookies={1}
-                          href="/policies?ref=pf"
+                          // href="/policies?ref=pf"
+                          href="https://www.facebook.com"
                           accessKey={9}
                           title="Consulta nuestras políticas y condiciones."
                         >
@@ -593,7 +608,8 @@ function App() {
                       </li>
                       <li>
                         <a
-                          href="/help/?ref=pf"
+                          // href="/help/?ref=pf"
+                          href="https://www.facebook.com"
                           accessKey={0}
                           title="Visita nuestro servicio de ayuda."
                         >
@@ -604,7 +620,8 @@ function App() {
                         <a
                           accessKey={6}
                           className="accessible_elem"
-                          href="/settings"
+                          // href="/settings"
+                          href="https://www.facebook.com"
                           title="Ve y edita tu configuración de Facebook."
                         >
                           Configuración
@@ -614,7 +631,8 @@ function App() {
                         <a
                           accessKey={7}
                           className="accessible_elem"
-                          href="/allactivity?privacy_source=activity_log_top_menu"
+                          // href="/allactivity?privacy_source=activity_log_top_menu"
+                          href="https://www.facebook.com"
                           title="Ver tu registro de actividad"
                         >
                           Registro de actividad
